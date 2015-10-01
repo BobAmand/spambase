@@ -52,6 +52,6 @@ char_freq_[:            continuous.
 char_freq_!:            continuous.
 char_freq_$:            continuous.
 char_freq_#:            continuous.
-capital_run_length_average: continuous.
-capital_run_length_longest: continuous.
+capital_run_length_average:
+capital_run_length_longest:
 capital_run_length_total:   continuous.
